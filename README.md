@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://masabmustfa.github.io/masab.git.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=2DD4BF&center=true&vCenter=true&width=620&lines=Breaking+things%2C+professionally.;Playwright+%C2%B7+AI-assisted+testing+%C2%B7+Manual+QA;Top+Rated+on+Upwork+%C2%B7+1%2C000%2B+hours+delivered;all+suites+green+%E2%9C%93" alt="typing intro">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=2DD4BF&center=true&vCenter=true&width=700&lines=Breaking+things%2C+professionally.;Playwright+%C2%B7+AI-assisted+testing+%C2%B7+Manual+QA;Top+Rated+on+Upwork+%C2%B7+1%2C000%2B+hours+delivered;all+suites+green+%E2%9C%93" alt="typing intro">
   </a>
 </p>
 
@@ -13,20 +13,16 @@
   <a href="mailto:masabmustafa@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<table>
-<tr>
-<td width="190" align="center" valign="top">
-  <img src="https://github.com/masabmustfa.png" width="160" alt="Masab Mustafa">
-  <br><br>
-  <img src="https://img.shields.io/badge/📍-Lisbon,%20Portugal-0E1116?style=flat-square" alt="Lisbon">
-</td>
-<td valign="top">
-
 I'm a QA automation engineer with 3 years in software quality. I started in manual testing, setting up QA from scratch for an early legal-tech startup, and over the last year I've gone deep into automation with **Playwright** and **AI**.
 
 I test like a user, think like an engineer, and use AI to full effect: generating and maintaining test suites, and catching the edge cases most people miss. I've worked across legal SaaS, US healthcare, pharmaceutical ERP, and mobile, so I'm comfortable learning a new domain fast and finding the bugs that matter in each one.
 
-</td>
+<table align="center">
+<tr>
+<td align="center" width="170"><h3>3</h3>years in QA</td>
+<td align="center" width="170"><h3>1,000+</h3>hours on Upwork</td>
+<td align="center" width="170"><h3>500+</h3>automated tests</td>
+<td align="center" width="170"><h3>4</h3>industries</td>
 </tr>
 </table>
 
@@ -97,9 +93,24 @@ AI runs across the whole process, from test generation to maintenance.
 
 > "Quick, reliable, and detail-oriented. He delivered clear testing results with proper evidence and communicated smoothly throughout."
 
+<p align="center"><sub>Verified client reviews · <a href="https://www.upwork.com/freelancers/~01dd37ed5ae53a61dd">see all on Upwork</a></sub></p>
+
 <p align="center">
-  <b>Tell me about your product, and I'll tell you where it's most likely to break.</b><br><br>
-  <a href="https://www.upwork.com/freelancers/~01dd37ed5ae53a61dd">Hire me on Upwork →</a>
+  <b>Tell me about your product, and I'll tell you where it's most likely to break.</b>
+</p>
+
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~01dd37ed5ae53a61dd">
+    <img src="https://img.shields.io/badge/🚀%20Hire%20me%20on%20Upwork-14a800?style=for-the-badge&logoColor=white" height="42" alt="Hire me on Upwork">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:masabmustafa@gmail.com">
+    <img src="https://img.shields.io/badge/✉️%20Email%20me-2DD4BF?style=for-the-badge&logoColor=white" height="42" alt="Email me">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://masabmustfa.github.io/masab.git.io/">
+    <img src="https://img.shields.io/badge/🌐%20View%20portfolio-5AB8FF?style=for-the-badge&logoColor=white" height="42" alt="View portfolio">
+  </a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5AB8FF,50:2DD4BF,100:0E1116&height=120&section=footer" width="100%" alt="footer">
