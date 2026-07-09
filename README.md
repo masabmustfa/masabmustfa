@@ -1,5 +1,10 @@
-<h1 align="center">Masab Mustafa</h1>
-<p align="center"><b>QA Automation Engineer</b> · Playwright · AI-assisted testing · Manual QA</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1116,50:2DD4BF,100:5AB8FF&height=180&section=header&text=Masab%20Mustafa&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=QA%20Automation%20Engineer&descSize=20&descAlignY=72" width="100%" alt="banner">
+
+<p align="center">
+  <a href="https://masabmustfa.github.io/masab.git.io/">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=2DD4BF&center=true&vCenter=true&width=620&lines=Breaking+things%2C+professionally.;Playwright+%C2%B7+AI-assisted+testing+%C2%B7+Manual+QA;Top+Rated+on+Upwork+%C2%B7+1%2C000%2B+hours+delivered;all+suites+green+%E2%9C%93" alt="typing intro">
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.upwork.com/freelancers/~01dd37ed5ae53a61dd"><img src="https://img.shields.io/badge/Upwork-Top%20Rated-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Top Rated"></a>
@@ -8,13 +13,22 @@
   <a href="mailto:masabmustafa@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
----
+<table>
+<tr>
+<td width="190" align="center" valign="top">
+  <img src="https://github.com/masabmustfa.png" width="160" alt="Masab Mustafa">
+  <br><br>
+  <img src="https://img.shields.io/badge/📍-Lisbon,%20Portugal-0E1116?style=flat-square" alt="Lisbon">
+</td>
+<td valign="top">
 
-Breaking things, professionally.
+I'm a QA automation engineer with 3 years in software quality. I started in manual testing, setting up QA from scratch for an early legal-tech startup, and over the last year I've gone deep into automation with **Playwright** and **AI**.
 
-I'm a QA automation engineer with 3 years in software quality. I started in manual testing, setting up QA from scratch for an early legal-tech startup, and over the last year I've gone deep into automation with Playwright and AI. I test like a user, think like an engineer, and use AI to full effect: generating and maintaining test suites, and catching the edge cases most people miss.
+I test like a user, think like an engineer, and use AI to full effect: generating and maintaining test suites, and catching the edge cases most people miss. I've worked across legal SaaS, US healthcare, pharmaceutical ERP, and mobile, so I'm comfortable learning a new domain fast and finding the bugs that matter in each one.
 
-Top Rated on Upwork with 1,000+ hours delivered across legal SaaS, US healthcare, pharmaceutical ERP, and mobile.
+</td>
+</tr>
+</table>
 
 ## What I do
 
@@ -26,12 +40,12 @@ Top Rated on Upwork with 1,000+ hours delivered across legal SaaS, US healthcare
 
 | Project | Role | Result |
 |---|---|---|
-| US behavioral-health platform | QA Automation Engineer | Automated 300+ complex E2E scenarios in Playwright as part of a 500+ test suite, running in CI on every build |
-| Legal practice-management SaaS | First dedicated QA hire | Built the QA process from zero: 250+ test cases across 5 modules, traceability matrix, documented bug workflow |
-| Pharmaceutical manufacturing ERP | QA Engineer, ERP implementation | Validated sales, finance and supply-chain logic end to end, checking data at the source with SQL |
-| Consumer mobile app | Mobile QA Engineer | Real-device exploratory and functional testing across iOS and Android |
+| 🏥 US behavioral-health platform | QA Automation Engineer | Automated 300+ complex E2E scenarios in Playwright as part of a 500+ test suite, running in CI on every build |
+| ⚖️ Legal practice-management SaaS | First dedicated QA hire | Built the QA process from zero: 250+ test cases across 5 modules, traceability matrix, documented bug workflow |
+| 💊 Pharmaceutical manufacturing ERP | QA Engineer, ERP implementation | Validated sales, finance and supply-chain logic end to end, checking data at the source with SQL |
+| 📱 Consumer mobile app | Mobile QA Engineer | Real-device exploratory and functional testing across iOS and Android |
 
-Details and case studies on <a href="https://masabmustfa.github.io/masab.git.io/">my portfolio</a>.
+Full case studies on <a href="https://masabmustfa.github.io/masab.git.io/">my portfolio</a>.
 
 ## Skills and tools
 
@@ -69,7 +83,13 @@ Details and case studies on <a href="https://masabmustfa.github.io/masab.git.io/
 
 ## How I work
 
-Requirements review → test strategy → test case design → execution (manual + Playwright) → defect reporting with evidence → regression and CI → release sign-off. AI runs across the whole process, from test generation to maintenance.
+```
+01 Requirements  →  02 Test strategy  →  03 Test case design  →  04 Execution
+                                                                      ↓
+07 Release sign-off  ←  06 Regression & CI  ←  05 Defect reporting with evidence
+```
+
+AI runs across the whole process, from test generation to maintenance.
 
 ## What clients say
 
@@ -81,3 +101,5 @@ Requirements review → test strategy → test case design → execution (manual
   <b>Tell me about your product, and I'll tell you where it's most likely to break.</b><br><br>
   <a href="https://www.upwork.com/freelancers/~01dd37ed5ae53a61dd">Hire me on Upwork →</a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5AB8FF,50:2DD4BF,100:0E1116&height=120&section=footer" width="100%" alt="footer">
